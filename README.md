@@ -57,16 +57,16 @@ cd github-user-explorer
 
 3. Open index.html in your browser
 (No server or setup required)
+```
+--- 
 
 📌 API Used
 https://api.github.com/users/{username}
 
-
-🙌 Author
-
+## 🙌 Author
 Shahbaz Alam
+
 Frontend Developer | Learning MERN Stack
 
-⭐ Support
-
+## ⭐ Support
 If you found this project helpful, consider giving it a ⭐ on GitHub!
