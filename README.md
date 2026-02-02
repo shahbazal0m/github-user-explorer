@@ -46,16 +46,14 @@ github-user-explorer/
 ---
 
 ## ▶️ How to Run Locally
-```
 1. Clone the repository
+```
 git clone https://github.com/your-username/github-user-explorer.git
-
+```
 2. Navigate to the project folder
 cd github-user-explorer
-
 3. Open index.html in your browser
 (No server or setup required)
-```
 --- 
 
 📌 API Used
